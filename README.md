@@ -1,2 +1,1 @@
-# IMLP366
-##Python機器學習入門
+#Python機器學習入門
